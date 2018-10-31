@@ -1,5 +1,5 @@
 # Moiré Card
-Processing script to create a business card with a Moiré effect
+Processing script to create a business card with a Moiré effect. Originally created in 2012.
 
 ![Moiré Card](/images/1.jpg)
 ![Moiré Card](/images/2.jpg)
